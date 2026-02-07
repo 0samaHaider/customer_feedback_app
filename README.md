@@ -31,7 +31,7 @@ This app is ideal for **businesses and organizations** to quickly analyze custom
 1. Clone the repository:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/0samaHaider/customer_feedback_app
 cd customer_feedback_app
 ```
 
