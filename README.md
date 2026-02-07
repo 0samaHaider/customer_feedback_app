@@ -66,5 +66,3 @@ Your CSV file should have a **column named `Feedback`** containing the customer 
 | "Delivery was okay, nothing special."                |
 
 ---
-
-Do you want me to do that?
